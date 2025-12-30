@@ -1,3 +1,15 @@
 body{
-    background-color: green;
+    background-color: white;
+}
+
+.container {
+    display: flex;
+}
+
+p {
+    width: 50%;
+}
+
+img {
+    width: 50%;
 }
